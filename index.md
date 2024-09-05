@@ -31,7 +31,7 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 
 ## Announcements
 
-- Please fill out [this feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdFvLJkwO_ZFGGErnI0R9P1bGnZ_QSR1o9LRTtQWcNRD5CiCA/viewform?usp=pp_url) so we know how to improve. Thank you!
+- Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you!
   
 ## Summary
 
