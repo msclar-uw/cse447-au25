@@ -36,12 +36,14 @@ quick_links:
     url: "https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf"
   - name: J&M III
     url: "https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf"
-  - name: Discussion Board
-    url: "https://edstem.org/us/courses/21345/discussion/1327861"
+  - name: Discussion Board (Ed)
+    url: "https://edstem.org/us/courses/66186/discussion/"
   - name: Canvas
-    url: "https://canvas.uw.edu/courses/1545374"
-  - name: GitLab
-    url: "https://gitlab.cs.washington.edu/cse447-sp2022"
+    url: "https://canvas.uw.edu/courses/1746465"
+  - name: Gradescope
+    url: https://www.gradescope.com/courses/858262
+#  - name: GitLab
+#    url: "https://gitlab.cs.washington.edu/cse447-sp2022"
 
 #assignments:
 #  - name: a1
