@@ -10,7 +10,7 @@ seo:
 
 # {{ site.tagline }}
 {: .fs-7 .fw-350 }
-MWF 1:30-2:20pm, KNE 110
+MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
