@@ -31,7 +31,9 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 
 ## Announcements
 
-- Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you!
+**Classes will start on September 27th, 2024**. This website will be updated periodically.
+
+<!-- - Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you! -->
   
 ## Summary
 
@@ -88,8 +90,9 @@ Calendar is tentative and subject to change. More details will be added as the q
 ## Resources
 
 * Readings
+  - [J&M III](https://web.stanford.edu/~jurafsky/slp3/): Speech and Language Processing (Dan Jurafsky and James H. Martin)
   - [Eis](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf): Natural Language Processing (Jacob Eisenstein)
-  - [J&M III](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf): Speech and Language Processing (Dan Jurafsky and James H. Martin)
+  - Additional readings will be released weekly.
 * [Ed discussion board](https://edstem.org/us/courses/66186/discussion/)
 <!-- * Zoom link -->
 * [Canvas](https://canvas.uw.edu/courses/1746465)
@@ -97,6 +100,7 @@ Calendar is tentative and subject to change. More details will be added as the q
 
 ## Assignments/Grading
 
+<!-- 
 * Project 1 (sequence classification): 30%
     - We will build a system for automatically classifying song lyrics comments by era. 
     - Specifically, we build machine learning _text classifiers_, including both generative and discriminative models, and explore techniques to improve the models.
@@ -107,6 +111,10 @@ Calendar is tentative and subject to change. More details will be added as the q
 * Project 3 (dependency parsing): 30%
     - We will implement a transition-based _dependency parser_.
     - The algorithm would be new and specific to the dependency parsing problem, but the underlying building blocks of the method are still some neural network modules covered in P1 and P2.
+-->
+* Project 1: 30%
+* Project 2: 30%
+* Project 3: 30%
 * Quizzes: 10%
     - Starting from the 3rd week, we will have quizzes on Wednesdays.
     - There will be 8 quizzes in total.
