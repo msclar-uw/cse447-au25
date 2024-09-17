@@ -7,4 +7,4 @@ website:
 photo: riva.jpg
 ---
 
-OH: TBD, [Zoom](https://washington.zoom.us/j/TBD)
+OH: Fri 12:30-1:30pm, [Zoom](https://washington.zoom.us/j/94132731109)

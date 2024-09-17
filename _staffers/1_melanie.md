@@ -7,4 +7,4 @@ website: https://msclar.github.io/
 photo: melanie.jpeg
 ---
 
-OH: TBD, [Zoom](https://washington.zoom.us/my/TBD)
+OH: Fri 11:00-12:00pm, Allen 220, [Zoom](https://washington.zoom.us/j/99281990261)

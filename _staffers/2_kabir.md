@@ -7,4 +7,4 @@ website: https://kabirahuja2431.github.io/
 photo: kabir.png
 ---
 
-OH: TBD, [Zoom](https://washington.zoom.us/j/TBD)
+OH: Tue 11:00-12:00pm, Allen 220, [Zoom](https://washington.zoom.us/j/96848124165)

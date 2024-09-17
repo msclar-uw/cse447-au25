@@ -7,4 +7,4 @@ website: https://kavelrao.dev/
 photo: kavel.jpg
 ---
 
-OH: TBD, [Zoom](https://washington.zoom.us/j/TBD)
+OH: Mon 2:30-3:30pm, [Zoom](https://washington.zoom.us/j/93648876537)
