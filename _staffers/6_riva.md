@@ -7,4 +7,4 @@ website:
 photo: riva.jpg
 ---
 
-OH: Fri 12:30-1:30pm, [Zoom](https://washington.zoom.us/j/94132731109)
+OH: Fri 12:30-1:30pm, Gates 150, [Zoom](https://washington.zoom.us/j/94132731109)
