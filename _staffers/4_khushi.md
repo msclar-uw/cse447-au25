@@ -7,4 +7,4 @@ website:
 photo: khushi.png
 ---
 
-OH: TBD, [Zoom](https://washington.zoom.us/j/TBD)
+OH: Mon 11:00-12:00pm, CSE1 3rd Floor Breakout
