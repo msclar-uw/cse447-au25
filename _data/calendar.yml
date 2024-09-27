@@ -1,0 +1,29 @@
+- week: 1
+  size: 1
+  days:
+    - date: 9/27
+      topics: Logistics
+      slides: assets/slides/1-Logistics-UndergradNLP-2024au.pdf
+      readings:
+         - title: Course website, syllabus
+- week: 2
+  size: 3
+  days:
+    - date: 9/30
+      topics: Introduction
+      slides: assets/slides/2-Intro-UndergradNLP-2024au.pdf
+      readings:
+         - title: Optional reading J&M (2nd ed) 1
+           link: https://home.cs.colorado.edu/%7Emartin/SLP/Updates/1.pdf
+    - date: 10/02
+      topics: Introduction
+      slides: assets/slides/3-Intro-UndergradNLP-2024au.pdf
+      readings:
+         - title: Optional reading NYT Interview with Yejin Choi
+           link: assets/readings/nyt-12-26-22.pdf
+    - date: 10/04
+      topics: Text classification
+      readings:
+         - title: Eis 2
+         - title: J&M III 4
+           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
