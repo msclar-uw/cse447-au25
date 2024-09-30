@@ -31,6 +31,8 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 
 ## Announcements
 
+**Project 0 out!** [Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing) [Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)
+
 **Classes will start on September 27th, 2024**. This website will be updated periodically.
 
 <!-- - Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you! -->
@@ -113,7 +115,7 @@ Calendar is tentative and subject to change. More details will be added as the q
     - The algorithm would be new and specific to the dependency parsing problem, but the underlying building blocks of the method are still some neural network modules covered in P1 and P2.
 
 -->
-* **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional
+* **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional, Extra 2\% Credit. [Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing) [Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)
 * **Project 1 (*Text Classification and N-gram language models*)**: 30%
     - Implementing Naive Bayes and Logistic Regression for text classification
     - Training, evaluating, and sampling from n-gram Language Models
