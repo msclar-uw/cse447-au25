@@ -126,7 +126,7 @@ Calendar is tentative and subject to change. More details will be added as the q
     - Fine-tuning pre-trained model for text classification 
     - Prompting LLMs for reasoning / QA. Will cover different prompting methods like In-context learning, CoT, and self-consistency as well as other tricks such as RAG
 * **Quizzes**: 10%
-    - Starting from the 3rd week, we will have quizzes on Wednesdays.
+    - Starting from the 3rd week, we will have quizzes on Fridays (unless announced otherwise).
     - There will be 8 quizzes in total.
     - Quizzes will be released 10 minutes in the beginning of the class.
     - 5 best quizzes will be counted into final score. Each quiz will occupy 2% of final score. 
