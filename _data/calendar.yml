@@ -27,3 +27,78 @@
          - title: Eis 2
          - title: J&M III 4
            link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+
+- week: 3
+  size: 3
+  days:
+    - date: 10/07
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+        - title: Ng & Jordan, 2001
+          link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
+      due: HW1 out
+    - date: 10/09
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+        - title: Pang et al. 2002
+          link: https://aclanthology.org/W02-1011.pdf
+      due: HW1 overview
+    - date: 10/11
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      due: in-class quiz 1
+
+- week: 4
+  size: 3
+  days:
+    - date: 10/14
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: 10/16
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: 10/18
+      topics: Language modeling
+      readings:
+        - title: J&M III 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+        - title: Eis 6.1-6.2, 6.4
+      due: in-class quiz 2
+
+- week: 5
+  size: 3
+  days:
+    - date: 10/21
+      topics: Language modeling
+      readings:
+        - title: J&M III 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+        - title: Eis 6.1-6.2, 6.4
+    - date: 10/23
+      topics: Lexical semantics
+      readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+        - title: Eis 14
+    - date: 10/25
+      topics: Lexical semantics
+      readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+        - title: Eis 14
+      due: in-class quiz 3
