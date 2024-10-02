@@ -31,9 +31,8 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 
 ## Announcements
 
-**Project 0 out!** [Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing) [Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)
+**Project 0 is out!** [[Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing)] [[Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)]
 
-**Classes will start on September 27th, 2024**. This website will be updated periodically.
 
 <!-- - Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you! -->
   
