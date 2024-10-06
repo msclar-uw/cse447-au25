@@ -23,6 +23,7 @@
            link: assets/readings/nyt-12-26-22.pdf
     - date: 10/04
       topics: Text classification
+      slides: assets/slides/4-5-TextClassification-UndergradNLP-2024au.pdf
       readings:
          - title: Eis 2
          - title: J&M III 4
@@ -33,6 +34,7 @@
   days:
     - date: 10/07
       topics: Text classification
+      slides: assets/slides/4-5-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: Eis 2
         - title: J&M III 4
