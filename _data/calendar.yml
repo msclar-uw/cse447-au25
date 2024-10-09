@@ -22,7 +22,7 @@
          - title: Optional reading NYT Interview with Yejin Choi
            link: assets/readings/nyt-12-26-22.pdf
     - date: 10/04
-      topics: Text classification
+      topics: Introduction
       slides: assets/slides/4-Introduction-UndergradNLP-2024au.pdf
       readings:
          - title: Eis 2
@@ -76,7 +76,7 @@
         - title: J&M III 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
     - date: 10/18
-      topics: Language modeling
+      topics: Text classification
       readings:
         - title: J&M III 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
@@ -93,13 +93,13 @@
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
         - title: Eis 6.1-6.2, 6.4
     - date: 10/23
-      topics: Lexical semantics
+      topics: Language modeling
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         - title: Eis 14
     - date: 10/25
-      topics: Lexical semantics
+      topics: Language modeling, Lexical semantics
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
@@ -117,6 +117,7 @@
       due: HW1 due; HW2 out
     - date: 11/1
       topics: Research highlight
+      due: in-class quiz 4
 
 - week: 7
   size: 3
@@ -127,3 +128,49 @@
       topics: Neural networks
     - date: 11/8
       topics: Neural networks (Transformers)
+      due: in-class quiz 5
+
+- week: 8
+  size: 3
+  days:
+    - date: 11/11
+      topics: (Cancelled)
+    - date: 11/13
+      topics: LLMs
+    - date: 11/15
+      topics: LLMs
+      due: in-class quiz 6
+
+- week: 9
+  size: 3
+  days:
+    - date: 11/18
+      topics: LLMs
+    - date: 11/20
+      topics: LLM safety
+      due: HW2 due
+    - date: 11/22
+      topics: LLM + Aplications
+      due: in-class quiz 7; HW3 out
+
+- week: 9
+  size: 3
+  days:
+    - date: 11/25
+      topics: LLM + Aplications
+    - date: 11/27
+      topics: LLM + Aplications
+    - date: 11/29
+      topics: (Cancelled)
+      due: in-class quiz 8
+
+- week: 10
+  size: 3
+  days:
+    - date: 12/2
+      topics: Research highlight
+    - date: 12/4
+      topics: Research highlight
+    - date: 12/6
+      topics: Research highlight
+      due: HW3 due
