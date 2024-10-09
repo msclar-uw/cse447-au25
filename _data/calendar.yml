@@ -111,10 +111,10 @@
   days:
     - date: 10/28
       topics: Lexical semantics
-      due: HW1 due
+      due:
     - date: 10/30
       topics: Lexical semantics
-      due: HW2 out
+      due: HW1 due; HW2 out
     - date: 11/1
       topics: Research highlight
 
@@ -126,4 +126,4 @@
     - date: 11/6
       topics: Neural networks
     - date: 11/8
-      topics: Neural networks Transformers
+      topics: Neural networks (Transformers)
