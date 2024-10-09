@@ -23,7 +23,7 @@
            link: assets/readings/nyt-12-26-22.pdf
     - date: 10/04
       topics: Text classification
-      slides: assets/slides/4-5-TextClassification-UndergradNLP-2024au.pdf
+      slides: assets/slides/4-Introduction-UndergradNLP-2024au.pdf
       readings:
          - title: Eis 2
          - title: J&M III 4
@@ -34,7 +34,7 @@
   days:
     - date: 10/07
       topics: Text classification
-      slides: assets/slides/4-5-TextClassification-UndergradNLP-2024au.pdf
+      slides: assets/slides/5-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: Eis 2
         - title: J&M III 4
@@ -44,6 +44,7 @@
       due: HW1 out
     - date: 10/09
       topics: Text classification
+      slides: assets/slides/6-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: Eis 2
         - title: J&M III 5
@@ -104,3 +105,25 @@
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         - title: Eis 14
       due: in-class quiz 3
+
+- week: 6
+  size: 3
+  days:
+    - date: 10/28
+      topics: Lexical semantics
+      due: HW1 due
+    - date: 10/30
+      topics: Lexical semantics
+      due: HW2 out
+    - date: 11/1
+      topics: Research highlight
+
+- week: 7
+  size: 3
+  days:
+    - date: 11/4
+      topics: Neural networks
+    - date: 11/6
+      topics: Neural networks
+    - date: 11/8
+      topics: Neural networks Transformers
