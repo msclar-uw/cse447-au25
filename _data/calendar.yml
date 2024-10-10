@@ -99,7 +99,7 @@
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         - title: Eis 14
     - date: 10/25
-      topics: Language modeling, Lexical semantics
+      topics: Language modeling and Lexical semantics
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
@@ -127,7 +127,7 @@
     - date: 11/6
       topics: Neural networks
     - date: 11/8
-      topics: Neural networks (Transformers)
+      topics: "Neural networks: Transformers"
       due: in-class quiz 5
 
 - week: 8
@@ -157,20 +157,20 @@
   size: 3
   days:
     - date: 11/25
-      topics: LLM + Aplications
+      topics: LLMs + Reasoning
     - date: 11/27
-      topics: LLM + Aplications
+      topics: Research highlight
     - date: 11/29
       topics: (Cancelled)
-      due: in-class quiz 8
 
 - week: 10
   size: 3
   days:
     - date: 12/2
       topics: Research highlight
+      due: in-class quiz 8
     - date: 12/4
-      topics: Research highlight
+      topics: "NLP in Industry: Recommender systems and online training"
     - date: 12/6
-      topics: Research highlight
+      topics: Conclusion and Q&A
       due: HW3 due
