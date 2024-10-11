@@ -168,9 +168,9 @@
   days:
     - date: 12/2
       topics: Research highlight
-      due: in-class quiz 8
     - date: 12/4
       topics: "NLP in Industry: Recommender systems and online training"
+      due: in-class quiz 8
     - date: 12/6
       topics: Conclusion and Q&A
       due: HW3 due
