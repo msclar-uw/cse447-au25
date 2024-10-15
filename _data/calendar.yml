@@ -54,6 +54,7 @@
       due: HW1 overview
     - date: 10/11
       topics: Text classification
+      slides: assets/slides/7-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: Eis 2
         - title: J&M III 5
@@ -65,6 +66,7 @@
   days:
     - date: 10/14
       topics: Text classification
+      slides: assets/slides/7-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: Eis 2
         - title: J&M III 5
