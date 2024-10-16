@@ -73,12 +73,14 @@
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
     - date: 10/16
       topics: Text classification
+      slides: assets/slides/9-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: Eis 2
         - title: J&M III 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
     - date: 10/18
       topics: Text classification
+      slides: assets/slides/10-TextClassification-UndergradNLP-2024au.pdf
       readings:
         - title: J&M III 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
