@@ -92,18 +92,21 @@
   days:
     - date: 10/21
       topics: Language modeling
+      slides: assets/slides/11-LanguageModeling-UndergradNLP-2024au.pdf
       readings:
         - title: J&M III 3
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
         - title: Eis 6.1-6.2, 6.4
     - date: 10/23
       topics: Language modeling
+      slides: assets/slides/12-LanguageModeling-UndergradNLP-2024au.pdf
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
         - title: Eis 14
     - date: 10/25
       topics: Language modeling and Lexical semantics
+      slides: assets/slides/13-RepresentationLearning-UndergradNLP-2024au.pdf
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
