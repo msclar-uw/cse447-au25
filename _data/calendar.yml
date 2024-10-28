@@ -118,6 +118,11 @@
   days:
     - date: 10/28
       topics: Lexical semantics
+      slides: assets/slides/14-15-RepresentationLearning-UndergradNLP-2024au.pdf
+      readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+        - title: Eis 14
       due:
     - date: 10/30
       topics: Lexical semantics
