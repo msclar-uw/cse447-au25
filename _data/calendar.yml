@@ -125,6 +125,9 @@
       due:
     - date: 10/30
       slides: assets/slides/14-15-RepresentationLearning-UndergradNLP-2024au.pdf
+      readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       topics: Lexical semantics
       due: HW1 due; HW2 out
     - date: 11/1
