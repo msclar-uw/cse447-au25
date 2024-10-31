@@ -31,6 +31,9 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 
 ## Announcements
 
+**Project 2 is out!** [[Handout PDF](https://drive.google.com/file/d/1DsQ2fk3PSSlFP95WjTMFrHkA-S4gDrRU/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/bgfvtnmrttnh#3a9f80)][[Part A Notebook](https://colab.research.google.com/drive/1iwEpBA8p0TRi46rt_Xf3ZxT7YjZM6muz)][[Part B Notebook](https://colab.research.google.com/drive/1xxU5zhMGYmcdRhUlk6BLsODdxbXOva3v)]
+
+
 **Project 1 is out!** [[Handout PDF](https://drive.google.com/file/d/142tG2zCQRliiO5gLxTSwn4yHxUeSZzCS/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/smbwhtdhctbd#548d83)][[Part A Notebook](https://colab.research.google.com/drive/1J6p16NjwUHJhtGXHxfNPiMsf0G-ANNza?usp=sharing)][[Part B Notebook](https://colab.research.google.com/drive/1xvbwMoO9k3pDeHUJUOG-hnlDApsx0f9u#scrollTo=laxqpkl_eji0)]
 
 **Project 0 is out!** [[Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing)] [[Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)]
@@ -120,9 +123,8 @@ Calendar is tentative and subject to change. More details will be added as the q
 * **Project 1 (*Text Classification and N-gram language models*)**: 30% [[Handout PDF](https://drive.google.com/file/d/142tG2zCQRliiO5gLxTSwn4yHxUeSZzCS/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/smbwhtdhctbd#548d83)][[Part A Notebook](https://colab.research.google.com/drive/1J6p16NjwUHJhtGXHxfNPiMsf0G-ANNza?usp=sharing)][[Part B Notebook](https://colab.research.google.com/drive/1xvbwMoO9k3pDeHUJUOG-hnlDApsx0f9u#scrollTo=laxqpkl_eji0)]
     - Implementing Logistic Regression for text classification
     - Training, evaluating, and sampling from n-gram Language Models
-* **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30%
+* **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30% [[Handout PDF](https://drive.google.com/file/d/1DsQ2fk3PSSlFP95WjTMFrHkA-S4gDrRU/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/bgfvtnmrttnh#3a9f80)][[Part A Notebook](https://colab.research.google.com/drive/1iwEpBA8p0TRi46rt_Xf3ZxT7YjZM6muz)][[Part B Notebook](https://colab.research.google.com/drive/1xxU5zhMGYmcdRhUlk6BLsODdxbXOva3v)]
     - Training feed-forward neural networks for text classification using word2vec and sentence transformers representations
-    - Training a transformer-based language model from scratch
 * **Project 3 (*Fine-tuning and Prompting Pre-trained Language Models*)***: 30%
     - Fine-tuning pre-trained model for text classification 
     - Prompting LLMs for reasoning / QA. Will cover different prompting methods like In-context learning, CoT, and self-consistency as well as other tricks such as RAG
