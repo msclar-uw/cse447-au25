@@ -149,7 +149,7 @@
   size: 3
   days:
     - date: 11/11
-      topics: Veterans Day (Cancelled)
+      topics: Veterans Day (Canceled)
     - date: 11/13
       topics: LLMs
     - date: 11/15
@@ -176,7 +176,7 @@
     - date: 11/27
       topics: Research highlight
     - date: 11/29
-      topics: Thanksgiving (Cancelled)
+      topics: Thanksgiving (Canceled)
 
 - week: 10
   size: 3
