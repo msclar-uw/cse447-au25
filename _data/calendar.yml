@@ -131,7 +131,7 @@
       topics: Lexical semantics
       due: HW1 due; HW2 out
     - date: 11/1
-      topics: Research highlight
+      topics: "Research highlight: Political biases in LLMs"
       due: in-class quiz 4
 
 - week: 7
@@ -151,21 +151,21 @@
     - date: 11/11
       topics: Veterans Day (Canceled)
     - date: 11/13
-      topics: LLMs
+      topics: LLMs - pretraining, in-context learning (ICL)
     - date: 11/15
-      topics: LLMs
+      topics: LLMs - finetuning
       due: in-class quiz 6
 
 - week: 9
   size: 3
   days:
     - date: 11/18
-      topics: LLMs
+      topics: LLMs - prompting, Chain of Thought (CoT)
     - date: 11/20
       topics: LLM safety
       due: HW2 due
     - date: 11/22
-      topics: LLM + Aplications
+      topics: "NLP Aplications: Summarization"
       due: in-class quiz 7; HW3 out
 
 - week: 9
@@ -182,7 +182,7 @@
   size: 3
   days:
     - date: 12/2
-      topics: Research highlight
+      topics: AI ethics
     - date: 12/4
       topics: "NLP in Industry: Recommender systems and online training"
       due: in-class quiz 8
