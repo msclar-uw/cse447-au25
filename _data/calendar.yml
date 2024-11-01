@@ -132,6 +132,12 @@
       due: HW1 due; HW2 out
     - date: 11/1
       topics: "Research highlight: Political biases in LLMs"
+      slides: assets/slides/16-LLMs-and-Politics-UndergradNLP-2024au.pdf
+      readings:
+        - title: political bias in LLMs
+          link: https://aclanthology.org/2023.acl-long.656.pdf
+        - title: its effect on LLM users
+          link: https://arxiv.org/pdf/2410.06415
       due: in-class quiz 4
 
 - week: 7
@@ -162,23 +168,23 @@
     - date: 11/18
       topics: LLMs - prompting, Chain of Thought (CoT)
     - date: 11/20
-      topics: LLM safety
+      topics: LLM + Reasoning
       due: HW2 due
     - date: 11/22
-      topics: "NLP Aplications: Summarization"
+      topics: "LLMs + Reasoning: grand challenges"
       due: in-class quiz 7; HW3 out
 
-- week: 9
+- week: 10
   size: 3
   days:
     - date: 11/25
-      topics: LLMs + Reasoning
+      topics: "Aplications: Summarization"
     - date: 11/27
-      topics: Research highlight
+      topics: LLM Safety
     - date: 11/29
       topics: Thanksgiving (Canceled)
 
-- week: 10
+- week: 11
   size: 3
   days:
     - date: 12/2
