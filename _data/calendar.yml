@@ -145,10 +145,25 @@
   days:
     - date: 11/4
       topics: Neural networks
+      readings:
+        - title: J&M III 7
+          link: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+        - title: "<br><i>Optional</i>: Eis 6.3, 6.5; J&M III 7.5" 
+        - title: "Goldberg 10"
+          link: https://arxiv.org/abs/1510.00726
+        - title: "Collobert et al. 2011"
+          link: https://arxiv.org/abs/1103.0398
     - date: 11/6
       topics: Neural networks
+      readings:
+        - title: J&M III 8
+          link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
     - date: 11/8
       topics: "Neural networks: Transformers"
+      readings:
+        - title: J&M III 9
+          link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+        - title: "<br><i>Optional but recommended:</i> <a href='https://nlp.seas.harvard.edu/2018/04/03/attention.html'>Annotated Transformer</a>, <a href='https://jalammar.github.io/illustrated-transformer/'>Illustrated Transformer</a>"
       due: in-class quiz 5
 
 - week: 8
