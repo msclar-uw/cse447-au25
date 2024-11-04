@@ -153,11 +153,13 @@
           link: https://arxiv.org/abs/1510.00726
         - title: "Collobert et al. 2011"
           link: https://arxiv.org/abs/1103.0398
+      slides: assets/slides/17-NeuralNetworks-UndergradNLP-2024au.pdf
     - date: 11/6
       topics: Neural networks
       readings:
         - title: J&M III 8
           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+      slides: assets/slides/17-NeuralNetworks-UndergradNLP-2024au.pdf
     - date: 11/8
       topics: "Neural networks: Transformers"
       readings:
