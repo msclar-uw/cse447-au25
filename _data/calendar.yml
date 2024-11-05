@@ -159,7 +159,7 @@
       readings:
         - title: J&M III 8
           link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
-      slides: assets/slides/17-NeuralNetworks-UndergradNLP-2024au.pdf
+      slides: assets/slides/18-NeuralNetworks-UndergradNLP-2024au.pdf
     - date: 11/8
       topics: "Neural networks: Transformers"
       readings:
