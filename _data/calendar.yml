@@ -166,6 +166,7 @@
         - title: J&M III 9
           link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
         - title: "<br><i>Optional but recommended:</i> <a href='https://nlp.seas.harvard.edu/2018/04/03/attention.html'>Annotated Transformer</a>, <a href='https://jalammar.github.io/illustrated-transformer/'>Illustrated Transformer</a>"
+      slides: assets/slides/Transformers-UndergradNLP-Fall2024.pdf
       due: in-class quiz 5
 
 - week: 8
