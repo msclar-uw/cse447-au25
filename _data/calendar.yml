@@ -187,6 +187,9 @@
   days:
     - date: 11/18
       topics: LLMs - prompting, Chain of Thought (CoT)
+      readings:
+        - title: Schulhoff et al., 2024
+          link: https://arxiv.org/abs/2406.06608
     - date: 11/20
       topics: LLM + Reasoning
       due: HW2 due
