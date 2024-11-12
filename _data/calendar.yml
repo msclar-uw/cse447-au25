@@ -179,6 +179,13 @@
     - date: 11/13
       topics: LLMs - pretraining, in-context learning (ICL)
       slides: assets/slides/PretrainingCSE447.pdf
+      readings:
+        - title: J&M III 11
+          link: https://web.stanford.edu/~jurafsky/slp3/11.pdf
+        - title: BERT
+          link: https://arxiv.org/pdf/1810.04805
+        - title: Sentence-BERT
+          link: https://arxiv.org/pdf/1908.10084
     - date: 11/15
       topics: LLMs - finetuning
       due: in-class quiz 6
