@@ -178,6 +178,7 @@
       topics: Veterans Day (Canceled)
     - date: 11/13
       topics: LLMs - pretraining, in-context learning (ICL)
+      slides: assets/slides/PretrainingCSE447.pdf
     - date: 11/15
       topics: LLMs - finetuning
       due: in-class quiz 6
