@@ -177,7 +177,7 @@
     - date: 11/11
       topics: Veterans Day (Canceled)
     - date: 11/13
-      topics: LLMs - pretraining, in-context learning (ICL)
+      topics: LLMs - Pretraining I
       slides: assets/slides/PretrainingCSE447.pdf
       readings:
         - title: J&M III 11
@@ -187,7 +187,7 @@
         - title: Sentence-BERT
           link: https://arxiv.org/pdf/1908.10084
     - date: 11/15
-      topics: LLMs - finetuning
+      topics: LLMs - Pretraining II
       due: in-class quiz 6
 
 - week: 9
