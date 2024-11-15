@@ -188,6 +188,18 @@
           link: https://arxiv.org/pdf/1908.10084
     - date: 11/15
       topics: LLMs - Pretraining II
+      slides: assets/slides/PretrainingIICSE447.pdf
+      readings:
+        - title: J&M III 10
+          link: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+        - title: T5
+          link: https://arxiv.org/pdf/1910.10683.pdf
+        - title: GPT-2 
+          link: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+        - title: Curious case of Neural Text Degeneration
+          link: https://arxiv.org/pdf/1904.09751
+        - title: How to generate text (HF blog) 
+          link: https://huggingface.co/blog/how-to-generate
       due: in-class quiz 6
 
 - week: 9
