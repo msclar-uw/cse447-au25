@@ -210,6 +210,7 @@
       readings:
         - title: Schulhoff et al., 2024
           link: https://arxiv.org/abs/2406.06608
+      slides: assets/slides/Prompting_Lecture_Liwei.pdf
     - date: 11/20
       topics: LLM + Reasoning
       due: HW2 due
