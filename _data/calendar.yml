@@ -213,6 +213,7 @@
       slides: assets/slides/Prompting_Lecture_Liwei.pdf
     - date: 11/20
       topics: LLM + Reasoning
+      slides: assets/slides/23-UW_Guest_Lecture_Chan_Park.pdf
       due: HW2 due
     - date: 11/22
       topics: "LLMs + Reasoning: grand challenges"
