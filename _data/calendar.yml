@@ -214,6 +214,11 @@
     - date: 11/20
       topics: LLM + Reasoning
       slides: assets/slides/23-UW_Guest_Lecture_Chan_Park.pdf
+      readings:
+        - title: Survey on Knowledge Distillation
+          link: https://arxiv.org/pdf/2402.13116
+        - title: Jung et al., 2024
+          link: https://arxiv.org/abs/2305.16635
       due: HW2 due
     - date: 11/22
       topics: "LLMs + Reasoning: grand challenges"
