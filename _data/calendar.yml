@@ -222,6 +222,10 @@
       due: HW2 due
     - date: 11/22
       topics: "LLMs + Reasoning: grand challenges"
+      slides: assets/slides/Grand_Challenges_in_LLM_Reasoning.pdf
+      readings:
+        - title: Reasoning Survey
+          link: https://arxiv.org/abs/2404.01869
       due: in-class quiz 7; HW3 out
 
 - week: 10
