@@ -233,6 +233,10 @@
   days:
     - date: 11/25
       topics: "Aplications: Summarization"
+      slides: assets/slides/Summarization-UndergradNLP-2024-Fall.pdf
+      readings:
+        - title: Gehrmann et al., 2018
+          link: https://arxiv.org/abs/1808.10792
     - date: 11/27
       topics: LLM Safety
     - date: 11/29
