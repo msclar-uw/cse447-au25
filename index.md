@@ -31,6 +31,9 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 
 ## Announcements
 
+**Project 3 is out!** [[Handout PDF](https://drive.google.com/file/d/1bwFwaqrCm_te1PoNtwbU0m1dqHFXo7VQ/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/wdzcrxhccjpx#d8ed35)][[Part A Notebook](https://drive.google.com/file/d/1-sxDCG78Ao0z0f66T9EVmKeGmkK3u44P/view?usp=sharing)][[Part B Notebook](https://drive.google.com/file/d/1rW6qLMkWl7kJmWb8nwiyvBgLLmGzrsH7/view?usp=sharing)]
+
+
 **Project 2 is out!** [[Handout PDF](https://drive.google.com/file/d/1DsQ2fk3PSSlFP95WjTMFrHkA-S4gDrRU/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/bgfvtnmrttnh#3a9f80)][[Part A Notebook](https://colab.research.google.com/drive/1iwEpBA8p0TRi46rt_Xf3ZxT7YjZM6muz)][[Part B Notebook](https://colab.research.google.com/drive/1xxU5zhMGYmcdRhUlk6BLsODdxbXOva3v)]
 
 
@@ -125,9 +128,10 @@ Calendar is tentative and subject to change. More details will be added as the q
     - Training, evaluating, and sampling from n-gram Language Models
 * **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30% [[Handout PDF](https://drive.google.com/file/d/1DsQ2fk3PSSlFP95WjTMFrHkA-S4gDrRU/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/bgfvtnmrttnh#3a9f80)][[Part A Notebook](https://colab.research.google.com/drive/1iwEpBA8p0TRi46rt_Xf3ZxT7YjZM6muz)][[Part B Notebook](https://colab.research.google.com/drive/1xxU5zhMGYmcdRhUlk6BLsODdxbXOva3v)]
     - Training feed-forward neural networks for text classification using word2vec and sentence transformers representations
-* **Project 3 (*Fine-tuning and Prompting Pre-trained Language Models*)***: 30%
-    - Fine-tuning pre-trained model for text classification 
-    - Prompting LLMs for reasoning / QA. Will cover different prompting methods like In-context learning, CoT, and self-consistency as well as other tricks such as RAG
+* **Project 3 (*Transformers and Natural Language Generation*)***: 30% [[Handout PDF](https://drive.google.com/file/d/1bwFwaqrCm_te1PoNtwbU0m1dqHFXo7VQ/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/wdzcrxhccjpx#d8ed35)][[Part A Notebook](https://drive.google.com/file/d/1-sxDCG78Ao0z0f66T9EVmKeGmkK3u44P/view?usp=sharing)][[Part B Notebook](https://drive.google.com/file/d/1rW6qLMkWl7kJmWb8nwiyvBgLLmGzrsH7/view?usp=sharing)]
+    - Implementing multi-head self-attention from scratch and training transformer based language models
+    - Decoding algorithms for text generation
+    - Knowledge Distillation using synthetic data for summarization 
 * **Quizzes**: 10%
     - Starting from the 3rd week, we will have quizzes on Fridays (unless announced otherwise).
     - There will be 8 quizzes in total.
