@@ -238,7 +238,11 @@
         - title: Gehrmann et al., 2018
           link: https://arxiv.org/abs/1808.10792
     - date: 11/27
-      topics: LLM Safety
+      topics: "NLP in Industry: Recommender systems and online training <b>(recorded lecture)</b>"
+      slides: assets/slides/28-RecommendationSystems-UndergradNLP-2024au.pdf
+      readings:
+        - title: Lecture Recording
+          link: https://drive.google.com/file/d/1tnfvVSM3TbmZ9ttOlNKvdI1mz1vRf_D4/view
     - date: 11/29
       topics: Thanksgiving (Canceled)
 
@@ -246,9 +250,9 @@
   size: 3
   days:
     - date: 12/2
-      topics: AI ethics
+      topics: LLM Safety
     - date: 12/4
-      topics: "NLP in Industry: Recommender systems and online training"
+      topics: AI ethics
       due: in-class quiz 8
     - date: 12/6
       topics: Conclusion and Q&A
