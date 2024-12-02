@@ -251,6 +251,13 @@
   days:
     - date: 12/2
       topics: LLM Safety
+      readings:
+        - title: RisksOfLLMs
+          link: https://arxiv.org/pdf/2112.04359
+        - title: SafetyPrompts
+          link: https://arxiv.org/pdf/2404.05399
+        - title: The Art of Saying No
+          link: https://www.arxiv.org/pdf/2407.12043
     - date: 12/4
       topics: AI ethics
       due: in-class quiz 8
