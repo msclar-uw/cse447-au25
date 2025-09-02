@@ -10,7 +10,7 @@ seo:
 
 # {{ site.tagline }}
 {: .fs-7 .fw-350 }
-MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
+MWF 11:30-12:20pm, CSE2 G10 (Gates, ground floor)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -30,16 +30,6 @@ MWF 3:30-4:20pm, CSE2 G20 (Gates, ground floor)
 <!-- Office hours are available on Zoom by appointment. -->
 
 ## Announcements
-
-**Project 3 is out!** [[Handout PDF](https://drive.google.com/file/d/1bwFwaqrCm_te1PoNtwbU0m1dqHFXo7VQ/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/wdzcrxhccjpx#d8ed35)][[Part A Notebook](https://drive.google.com/file/d/1-sxDCG78Ao0z0f66T9EVmKeGmkK3u44P/view?usp=sharing)][[Part B Notebook](https://drive.google.com/file/d/1rW6qLMkWl7kJmWb8nwiyvBgLLmGzrsH7/view?usp=sharing)]
-
-
-**Project 2 is out!** [[Handout PDF](https://drive.google.com/file/d/1DsQ2fk3PSSlFP95WjTMFrHkA-S4gDrRU/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/bgfvtnmrttnh#3a9f80)][[Part A Notebook](https://colab.research.google.com/drive/1iwEpBA8p0TRi46rt_Xf3ZxT7YjZM6muz)][[Part B Notebook](https://colab.research.google.com/drive/1xxU5zhMGYmcdRhUlk6BLsODdxbXOva3v)]
-
-
-**Project 1 is out!** [[Handout PDF](https://drive.google.com/file/d/142tG2zCQRliiO5gLxTSwn4yHxUeSZzCS/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/smbwhtdhctbd#548d83)][[Part A Notebook](https://colab.research.google.com/drive/1J6p16NjwUHJhtGXHxfNPiMsf0G-ANNza?usp=sharing)][[Part B Notebook](https://colab.research.google.com/drive/1xvbwMoO9k3pDeHUJUOG-hnlDApsx0f9u#scrollTo=laxqpkl_eji0)]
-
-**Project 0 is out!** [[Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing)] [[Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)]
 
 
 <!-- - Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you! -->
@@ -122,16 +112,10 @@ Calendar is tentative and subject to change. More details will be added as the q
     - The algorithm would be new and specific to the dependency parsing problem, but the underlying building blocks of the method are still some neural network modules covered in P1 and P2.
 
 -->
-* **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional, Extra 2% Credit. [Instructions](https://drive.google.com/file/d/1hiZ278EJCRp0iJntYO4c2tyZOzI4SLSP/view?usp=sharing) [Notebook](https://colab.research.google.com/drive/1PAUlmIZMcxsKME0UlBCLf8HtQU2rcs5Q)
-* **Project 1 (*Text Classification and N-gram language models*)**: 30% [[Handout PDF](https://drive.google.com/file/d/142tG2zCQRliiO5gLxTSwn4yHxUeSZzCS/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/smbwhtdhctbd#548d83)][[Part A Notebook](https://colab.research.google.com/drive/1J6p16NjwUHJhtGXHxfNPiMsf0G-ANNza?usp=sharing)][[Part B Notebook](https://colab.research.google.com/drive/1xvbwMoO9k3pDeHUJUOG-hnlDApsx0f9u#scrollTo=laxqpkl_eji0)]
-    - Implementing Logistic Regression for text classification
-    - Training, evaluating, and sampling from n-gram Language Models
-* **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30% [[Handout PDF](https://drive.google.com/file/d/1DsQ2fk3PSSlFP95WjTMFrHkA-S4gDrRU/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/bgfvtnmrttnh#3a9f80)][[Part A Notebook](https://colab.research.google.com/drive/1iwEpBA8p0TRi46rt_Xf3ZxT7YjZM6muz)][[Part B Notebook](https://colab.research.google.com/drive/1xxU5zhMGYmcdRhUlk6BLsODdxbXOva3v)]
-    - Training feed-forward neural networks for text classification using word2vec and sentence transformers representations
-* **Project 3 (*Transformers and Natural Language Generation*)***: 30% [[Handout PDF](https://drive.google.com/file/d/1bwFwaqrCm_te1PoNtwbU0m1dqHFXo7VQ/view?usp=sharing)][[Handout LaTeX Source](https://www.overleaf.com/read/wdzcrxhccjpx#d8ed35)][[Part A Notebook](https://drive.google.com/file/d/1-sxDCG78Ao0z0f66T9EVmKeGmkK3u44P/view?usp=sharing)][[Part B Notebook](https://drive.google.com/file/d/1rW6qLMkWl7kJmWb8nwiyvBgLLmGzrsH7/view?usp=sharing)]
-    - Implementing multi-head self-attention from scratch and training transformer based language models
-    - Decoding algorithms for text generation
-    - Knowledge Distillation using synthetic data for summarization 
+* **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional, Extra 2% Credit.
+* **Project 1 (*Text Classification and N-gram language models*)**: 30%
+* **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30%
+* **Project 3 (*Transformers and Natural Language Generation*)***: 30%
 * **Quizzes**: 10%
     - Starting from the 3rd week, we will have quizzes on Fridays (unless announced otherwise).
     - There will be 8 quizzes in total.

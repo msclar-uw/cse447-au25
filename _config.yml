@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Natural Language Processing
-tagline: CSE 447&#58; Natural Language Processing, Fall 2024
+tagline: CSE 447&#58; Natural Language Processing, Fall 2025
 description: 
 author: Ivy Guo
-baseurl: '/cse447-au24' # the subpath of your site, e.g. /blog
+baseurl: '/cse447-au25' # the subpath of your site, e.g. /blog
 url: 'https://msclar.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
