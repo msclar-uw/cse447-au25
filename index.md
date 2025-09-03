@@ -92,10 +92,10 @@ Calendar is tentative and subject to change. More details will be added as the q
   - [J&M III](https://web.stanford.edu/~jurafsky/slp3/): Speech and Language Processing (Dan Jurafsky and James H. Martin)
   - [Eis](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf): Natural Language Processing (Jacob Eisenstein)
   - Additional readings will be released weekly.
-* [Ed discussion board](https://edstem.org/us/courses/66186/discussion/)
+* [Ed discussion board](https://edstem.org/us/courses/86021/discussion/)
 <!-- * Zoom link -->
-* [Canvas](https://canvas.uw.edu/courses/1746465)
-* [Gradescope](https://www.gradescope.com/courses/858262)
+* [Canvas](https://canvas.uw.edu/courses/1828090)
+* [Gradescope](https://www.gradescope.com/courses/1116577)
 
 ## Assignments/Grading
 
