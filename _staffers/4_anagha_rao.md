@@ -7,4 +7,4 @@ website:
 photo: anagha_rao_pic.jpeg
 ---
 
-OH: TBD
+OH: Thu 9:30-10:30am, CSE1 220, [Zoom](https://washington.zoom.us/j/98659564306)
