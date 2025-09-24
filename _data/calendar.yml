@@ -3,5 +3,14 @@
   days:
     - date: 9/24
       topics: Logistics
+      slides: assets/slides/1-Intro-UndergradNLP-2025au.pdf
       readings:
          - title: Course website, syllabus
+    - date: 9/26
+      topics: Introduction
+      slides: assets/slides/2-Intro-UndergradNLP-2025au.pdf
+      readings:
+         - title: Optional reading J&M (2nd ed) 1
+           link: https://home.cs.colorado.edu/%7Emartin/SLP/Updates/1.pdf
+         - title: Optional reading NYT Interview with Yejin Choi
+           link: assets/readings/nyt-12-26-22.pdf
