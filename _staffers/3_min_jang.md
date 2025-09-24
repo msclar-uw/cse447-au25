@@ -7,4 +7,4 @@ website:
 photo: min_jang_pic.jpeg
 ---
 
-OH: Tue 1:30-2:30pm, CSE2 150, [Zoom](https://washington.zoom.us/j/2916656489)
+OH: Tue 1:30-2:30pm, CSE2 131, [Zoom](https://washington.zoom.us/j/2916656489)
