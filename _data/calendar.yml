@@ -19,7 +19,7 @@
   days:
     - date: 9/29
       topics: Introduction
-      slides: 3-LingIntroduction-Classification-UndergradNLP-2025au.pdf
+      slides: assets/slides/3-LingIntroduction-Classification-UndergradNLP-2025au.pdf
       readings:
          - title: Eis 2
          - title: J&M III 4
