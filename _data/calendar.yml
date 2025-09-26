@@ -14,3 +14,13 @@
            link: https://home.cs.colorado.edu/%7Emartin/SLP/Updates/1.pdf
          - title: Optional reading NYT Interview with Yejin Choi
            link: assets/readings/nyt-12-26-22.pdf
+- week: 2
+  size: 3
+  days:
+    - date: 9/29
+      topics: Introduction
+      slides: 3-LingIntroduction-Classification-UndergradNLP-2025au.pdf
+      readings:
+         - title: Eis 2
+         - title: J&M III 4
+           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
