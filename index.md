@@ -118,10 +118,11 @@ Calendar is tentative and subject to change. More details will be added as the q
 * **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30%
 * **Project 3 (*Transformers and Natural Language Generation*)***: 30%
 * **Quizzes**: 10%
-    - Starting from the 3rd week, we will have quizzes on Fridays (unless announced otherwise).
-    - There will be 7 quizzes in total.
+    - Starting from the 3rd week, we will have quizzes on **Mondays** (unless announced otherwise).
+    - There will be **7 quizzes in total**.
     - Quizzes will be released 10 minutes in the beginning of the class.
     - 5 best quizzes will be counted into final score. Each quiz will occupy 2% of final score. 
+    - Quizzes will be closed-book. We will use Canvas' functionalities to monitor this.
 * **Participation**: 6% bonus
 
 *Subject to change based on factors like class performance, compute feasibility, and topics covered during the course.
