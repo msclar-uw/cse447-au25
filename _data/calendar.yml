@@ -14,6 +14,7 @@
            link: https://home.cs.colorado.edu/%7Emartin/SLP/Updates/1.pdf
          - title: Optional reading NYT Interview with Yejin Choi
            link: assets/readings/nyt-12-26-22.pdf
+      due: HW0 out
 - week: 2
   size: 3
   days:
@@ -24,3 +25,30 @@
          - title: Eis 2
          - title: J&M III 4
            link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+    - date: 10/1
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 4
+          link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+        - title: Ng & Jordan, 2001
+          link: https://www.semanticscholar.org/paper/On-Discriminative-vs.-Generative-Classifiers%3A-A-of-Ng-Jordan/90929a6aa901ba958eb4960aeeb594c752e08369
+    - date: 10/3
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+        - title: Pang et al. 2002
+          link: https://aclanthology.org/W02-1011.pdf
+      due: HW0 due; HW1 out
+- week: 3
+  size: 1
+  days:
+    - date: 10/6
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      due: in-class quiz 1
