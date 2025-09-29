@@ -31,6 +31,7 @@ MWF 11:30-12:20pm, CSE2 G10 (Gates, ground floor)
 
 ## Announcements
 
+- [09/26/2025]: Project 0 is now out! [Handout](https://drive.google.com/file/d/16_GpMmXv6iC2f3BeWcdLbDPn-AR5Pwn_/view?usp=sharing) [Notebook](https://drive.google.com/file/d/1BHekMh3aSq3iMc-_na_75Cy5vfaeOpu2/view?usp=sharing)
 
 <!-- - Please fill out [this feedback form](https://forms.gle/dQ5s8e8Satc6Ww797) so we know how to improve. Thank you! -->
   
@@ -113,7 +114,7 @@ Calendar is tentative and subject to change. More details will be added as the q
     - The algorithm would be new and specific to the dependency parsing problem, but the underlying building blocks of the method are still some neural network modules covered in P1 and P2.
 
 -->
-* **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional, Extra 2% Credit.
+* **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional, Extra 2% Credit. [Handout](https://drive.google.com/file/d/16_GpMmXv6iC2f3BeWcdLbDPn-AR5Pwn_/view?usp=sharing) [Notebook](https://drive.google.com/file/d/1BHekMh3aSq3iMc-_na_75Cy5vfaeOpu2/view?usp=sharing)
 * **Project 1 (*Text Classification and N-gram language models*)**: 30%
 * **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30%
 * **Project 3 (*Transformers and Natural Language Generation*)***: 30%
