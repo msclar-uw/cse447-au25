@@ -45,7 +45,7 @@
           link: https://aclanthology.org/W02-1011.pdf
       due: HW0 due; HW1 out
 - week: 3
-  size: 1
+  size: 3
   days:
     - date: 10/6
       slides: assets/slides/6-TextClassification-UndergradNLP-2025au.pdf
@@ -55,3 +55,18 @@
         - title: J&M III 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
       due: in-class quiz 1
+    - date: 10/8
+      slides: assets/slides/7-TextClassification-UndergradNLP-2025au.pdf
+      topics: Text classification
+    - date: 10/10
+      topics: CANCELED
+- week: 4
+  size: 1
+  days:
+    - date: 10/13
+      slides: assets/slides/8-TextClassification-UndergradNLP-2025au.pdf
+      topics: Text classification
+      readings:
+        - title: Eis 2
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
