@@ -80,3 +80,14 @@
       readings:
         - title: J&M III 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
+- week: 5
+  size: 1
+  days:
+    - date: 10/20
+      topics: Language modeling
+      slides: assets/slides/9-LanguageModeling-UndergradNLP-2025au.pdf
+      readings:
+        - title: J&M III 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+        - title: Eis 6.1-6.2, 6.4
+      due: in-class quiz 2
