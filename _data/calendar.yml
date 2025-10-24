@@ -81,7 +81,7 @@
         - title: J&M III 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
 - week: 5
-  size: 3
+  size: 2
   days:
     - date: 10/20
       topics: Language modeling
@@ -99,4 +99,9 @@
         - title: Eis 6.1-6.2, 6.4
       due: <b>in-class quiz 2 [moved due to Canvas outage]</b>
     - date: 10/24
+      topics: Language modeling
+- week: 6
+  size: 1
+  days:
+    - date: 10/27
       due: HW1 due; HW2 out

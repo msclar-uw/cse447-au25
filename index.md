@@ -31,6 +31,8 @@ MWF 11:30-12:20pm, CSE2 G10 (Gates, ground floor)
 
 ## Announcements
 
+* **We have extended Project 1's deadline (HW1) to 10/27.**
+
 * **Due to the Canvas outage on 10/20, we have postponed Quiz #2 to Wednesday.**
 
 * **Project 1 is now out!** [10/02/2025] [Handout](https://drive.google.com/file/d/1B84I9DeEBG-zM9vzeyyIxub4vpafjiFG/view?usp=drive_link) [Part a Notebook](https://drive.google.com/file/d/1wv1TFHviKcF-SFOMR4Q3YMwMrp1PiNQ9/view?usp=drive_link) [Part b Notebook](https://drive.google.com/file/d/1_YwLBnmOt9yNGyKmgRXgHtWskSu6rVWG/view?usp=drive_link)
