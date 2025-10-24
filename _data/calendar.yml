@@ -81,7 +81,7 @@
         - title: J&M III 4
           link: https://web.stanford.edu/~jurafsky/slp3/4.pdf
 - week: 5
-  size: 2
+  size: 3
   days:
     - date: 10/20
       topics: Language modeling
