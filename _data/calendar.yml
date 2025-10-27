@@ -100,8 +100,17 @@
       due: <b>in-class quiz 2 [moved due to Canvas outage]</b>
     - date: 10/24
       topics: Language modeling
+      slides: assets/slides/9-LanguageModeling-UndergradNLP-2025au.pdf
+      readings:
+        - title: J&M III 3
+          link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+        - title: Eis 6.1-6.2, 6.4
 - week: 6
   size: 1
   days:
     - date: 10/27
       due: HW1 due; HW2 out
+      slides: assets/slides/10-RepresentationLearning-UndergradNLP-2025au.pdf
+      readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
