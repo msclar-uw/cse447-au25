@@ -106,11 +106,23 @@
           link: https://web.stanford.edu/~jurafsky/slp3/3.pdf
         - title: Eis 6.1-6.2, 6.4
 - week: 6
-  size: 1
+  size: 3
   days:
     - date: 10/27
-      topics: Lexical Semantics
-      due: HW1 due; HW2 out
+      topics: Distributional Semantics
+      due: HW1 due; HW2 out; in-class quiz 3
+      slides: assets/slides/10-RepresentationLearning-UndergradNLP-2025au.pdf
+      readings:
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: 10/29
+      topics: Distributional Semantics
+      slides: assets/slides/10-RepresentationLearning-UndergradNLP-2025au.pdf
+      readings:
+        - title: J&M III 5
+          link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: 10/31
+      topics: Distributional Semantics
       slides: assets/slides/10-RepresentationLearning-UndergradNLP-2025au.pdf
       readings:
         - title: J&M III 5
