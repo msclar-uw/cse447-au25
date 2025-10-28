@@ -35,6 +35,8 @@ MWF 11:30-12:20pm, CSE2 G10 (Gates, ground floor)
 
 * **Due to the Canvas outage on 10/20, we have postponed Quiz #2 to Wednesday.**
 
+* **Project 2 is now out!** [27/02/2025] [Handout](https://drive.google.com/file/d/1mPMhfFRvAQHkvsgKtR_TgX8l_AUmPnRN/view?usp=sharing) [Part a Notebook](https://drive.google.com/file/d/1i__jR56hcWbH475JjPn4g-v0dzANpird/view?usp=sharing) [Part b Notebook](https://drive.google.com/file/d/1mXfZzPgPzKs_KQRfRsTuk-XrMY02lS1c/view?usp=sharing) [Tex Source For Writeup](https://drive.google.com/file/d/1u5ubBklUixnbNR12JlWlsqmzIDKDnP2u/view?usp=sharing)
+
 * **Project 1 is now out!** [10/02/2025] [Handout](https://drive.google.com/file/d/1B84I9DeEBG-zM9vzeyyIxub4vpafjiFG/view?usp=drive_link) [Part a Notebook](https://drive.google.com/file/d/1wv1TFHviKcF-SFOMR4Q3YMwMrp1PiNQ9/view?usp=drive_link) [Part b Notebook](https://drive.google.com/file/d/1_YwLBnmOt9yNGyKmgRXgHtWskSu6rVWG/view?usp=drive_link)
 
 * **Project 0 is now out!** [09/26/2025] [Handout](https://drive.google.com/file/d/16_GpMmXv6iC2f3BeWcdLbDPn-AR5Pwn_/view?usp=sharing) [Notebook](https://drive.google.com/file/d/1BHekMh3aSq3iMc-_na_75Cy5vfaeOpu2/view?usp=sharing)
