@@ -30,6 +30,7 @@ MWF 11:30-12:20pm, CSE2 G10 (Gates, ground floor)
 <!-- Office hours are available on Zoom by appointment. -->
 
 ## Announcements
+* **Project 2 is now out!** [10/27/2025] [Handout](https://drive.google.com/file/d/1mPMhfFRvAQHkvsgKtR_TgX8l_AUmPnRN/view?usp=sharing) [Part a Notebook](https://drive.google.com/file/d/1i__jR56hcWbH475JjPn4g-v0dzANpird/view?usp=sharing) [Part b Notebook](https://drive.google.com/file/d/1mXfZzPgPzKs_KQRfRsTuk-XrMY02lS1c/view?usp=sharing) [Tex Source For Writeup](https://drive.google.com/file/d/1u5ubBklUixnbNR12JlWlsqmzIDKDnP2u/view?usp=sharing)
 
 * **We have extended Project 1's deadline (HW1) to 10/27.**
 
