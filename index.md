@@ -123,7 +123,7 @@ Calendar is tentative and subject to change. More details will be added as the q
 -->
 * **Project 0 (*Python and Pytorch Tutorial / Review*)**: Optional, Extra 2% Credit. [Handout](https://drive.google.com/file/d/16_GpMmXv6iC2f3BeWcdLbDPn-AR5Pwn_/view?usp=sharing) [Notebook](https://drive.google.com/file/d/1BHekMh3aSq3iMc-_na_75Cy5vfaeOpu2/view?usp=sharing)
 * **Project 1 (*Text Classification and N-gram language models*)**: 30% [Handout](https://drive.google.com/file/d/1B84I9DeEBG-zM9vzeyyIxub4vpafjiFG/view?usp=drive_link) [Part a Notebook](https://drive.google.com/file/d/1wv1TFHviKcF-SFOMR4Q3YMwMrp1PiNQ9/view?usp=drive_link) [Part b Notebook](https://drive.google.com/file/d/1_YwLBnmOt9yNGyKmgRXgHtWskSu6rVWG/view?usp=drive_link)
-* **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30%
+* **Project 2 (*Neural Text Classification and Neural Language Modeling*)***: 30% [Handout](https://drive.google.com/file/d/1mPMhfFRvAQHkvsgKtR_TgX8l_AUmPnRN/view?usp=sharing) [Part a Notebook](https://drive.google.com/file/d/1i__jR56hcWbH475JjPn4g-v0dzANpird/view?usp=sharing) [Part b Notebook](https://drive.google.com/file/d/1mXfZzPgPzKs_KQRfRsTuk-XrMY02lS1c/view?usp=sharing) [Tex Source For Writeup](https://drive.google.com/file/d/1u5ubBklUixnbNR12JlWlsqmzIDKDnP2u/view?usp=sharing)
 * **Project 3 (*Transformers and Natural Language Generation*)***: 30%
 * **Quizzes**: 10%
     - Starting from the 3rd week, we will have quizzes on **Mondays** (unless announced otherwise).
