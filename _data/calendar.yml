@@ -135,5 +135,5 @@
       readings:
         - title: J&M III 6
           link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
-
       slides: assets/slides/11-NeuralNetworks-UndergradNLP-2025au.pdf
+      due: in-class quiz 4
