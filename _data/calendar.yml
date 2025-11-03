@@ -127,3 +127,13 @@
       readings:
         - title: J&M III 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+- week: 7
+  size: 1
+  days:
+    - date: 11/3
+      topics: Neural networks
+      readings:
+        - title: J&M III 6
+          link: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+
+      slides: assets/slides/11-NeuralNetworks-UndergradNLP-2025au.pdf
