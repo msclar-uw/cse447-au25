@@ -18,6 +18,15 @@ MWF 11:30-12:20pm, CSE2 G10 (Gates, ground floor)
 {{ staffer }}
 {% endfor %}
 
+{% assign head_teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
+{% assign num_head_teaching_assistants = head_teaching_assistants | size %}
+{% if num_head_teaching_assistants != 0 %}
+
+{% for staffer in head_teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
