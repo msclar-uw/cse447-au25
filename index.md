@@ -131,6 +131,7 @@ Calendar is tentative and subject to change. More details will be added as the q
     - Quizzes will be released 10 minutes in the beginning of the class.
     - 5 best quizzes will be counted into final score. Each quiz will occupy 2% of final score. 
     - Quizzes will be closed-book. We will use Canvas' functionalities to monitor this.
+    - As explained in class, quizzes may only be taken in-person, to test your understanding of class materials and encourage you to attend and review lectures. From November 10th onwards, will enforce this by giving you an access code at the beginning of the class.
 * **Participation**: 6% bonus
 
 *Subject to change based on factors like class performance, compute feasibility, and topics covered during the course.
