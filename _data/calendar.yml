@@ -128,7 +128,7 @@
         - title: J&M III 5
           link: https://web.stanford.edu/~jurafsky/slp3/5.pdf
 - week: 7
-  size: 1
+  size: 2
   days:
     - date: 11/3
       topics: Neural networks
