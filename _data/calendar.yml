@@ -146,3 +146,15 @@
         - title: Attention Is All You Need
           link: https://arxiv.org/pdf/1706.03762
       slides: assets/slides/12-Transformers-UndergradNLP-2025au.pptx.pdf
+
+    - date: 11/7
+      topics: Transformers and Pre-training
+      readings:
+        - title: J&M III 8
+          link: https://web.stanford.edu/~jurafsky/slp3/8.pdf
+        - title: J&M III 10
+          link: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+        - title: Attention Is All You Need
+          link: https://arxiv.org/pdf/1706.03762
+      slides: assets/slides/13-Transformers-UndergradNLP-2025au.pptx.pdf, assets/slides/13-Pretraining-UndergradNLP-2025au.pptx.pdf
+      
