@@ -155,7 +155,6 @@
         - title: Attention Is All You Need
           link: https://arxiv.org/pdf/1706.03762
       slides: assets/slides/13-Transformers-UndergradNLP-2025au.pptx.pdf
-
 - week: 8
   size: 1
   days:
