@@ -155,4 +155,16 @@
         - title: Attention Is All You Need
           link: https://arxiv.org/pdf/1706.03762
       slides: assets/slides/13-Transformers-UndergradNLP-2025au.pptx.pdf
+
+- week: 8
+  size: 1
+  days:
+    - date: 11/10
+      topics: Pre-training
+      readings:
+        - title: J&M III 10
+          link: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+        - title: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+          link: https://arxiv.org/abs/1810.04805
+      slides: asset/slides/14-Pretraining-UndergradNLP-2025au.pdf
       
