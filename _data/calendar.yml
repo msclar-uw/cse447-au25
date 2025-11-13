@@ -168,6 +168,7 @@
         - title:
           link: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       slides: assets/slides/14-Pretraining-UndergradNLP-2025au.pdf
+      due: in-class quiz 5
   
     - date: 11/12
       topics: Pre-training + Decoding
@@ -181,4 +182,3 @@
       readings:
         - title: J&M III 9
           link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
-      due: HW2 due
