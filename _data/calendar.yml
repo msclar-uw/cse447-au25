@@ -156,14 +156,29 @@
           link: https://arxiv.org/pdf/1706.03762
       slides: assets/slides/13-Transformers-UndergradNLP-2025au.pptx.pdf
 - week: 8
-  size: 1
+  size: 3
   days:
     - date: 11/10
       topics: Pre-training
       readings:
         - title: J&M III 10
           link: https://web.stanford.edu/~jurafsky/slp3/10.pdf
-        - title: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+        - title: BERT
           link: https://arxiv.org/abs/1810.04805
-      slides: asset/slides/14-Pretraining-UndergradNLP-2025au.pdf
-      
+        - title:
+          link: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+      slides: assets/slides/14-Pretraining-UndergradNLP-2025au.pdf
+  
+    - date: 11/12
+      topics: Pre-training + Decoding
+      slides: assets/slides/14-Pretraining-UndergradNLP-2025au-Content-Covered-By-Han.pdf
+      readings:
+        - title: J&M III 12
+          link: https://web.stanford.edu/~jurafsky/slp3/12.pdf
+
+    - date: 11/14
+      topics: Post-training
+      readings:
+        - title: J&M III 9
+          link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+      due: HW2 due
