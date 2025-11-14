@@ -179,6 +179,7 @@
 
     - date: 11/14
       topics: Post-training
+      slides: assets/slides/15-PostTraining-UndergradNLP-2025au.pdf
       readings:
         - title: J&M III 9
           link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
