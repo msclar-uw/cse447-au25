@@ -185,3 +185,15 @@
           link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
 
 - week: 9
+  size: 2
+  days:
+    - date: 11/17
+      topics: LLMs - prompting, Chain of Thought (CoT)
+      readings:
+        - title: Schulhoff et al., 2024
+          link: https://arxiv.org/abs/2406.06608
+      slides: assets/slides/Prompting_Lecture_Liwei.pdf
+      due: in-class quiz 6; HW2 due
+    - date: 11/19
+      topics: LLM Decoding++
+
