@@ -192,7 +192,7 @@
       readings:
         - title: Schulhoff et al., 2024
           link: https://arxiv.org/abs/2406.06608
-      slides: assets/slides/Prompting_Lecture_Liwei.pdf
+      slides: assets/slides/16-ICL-UndergradNLP-2025au.pdf
       due: in-class quiz 6; HW2 due
     - date: 11/19
       topics: Frontiers of LLM Reasoning and Evaluation
