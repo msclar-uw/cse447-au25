@@ -185,7 +185,7 @@
           link: https://web.stanford.edu/~jurafsky/slp3/9.pdf
 
 - week: 9
-  size: 2
+  size: 3
   days:
     - date: 11/17
       topics: LLMs - prompting, Chain of Thought (CoT)
@@ -195,5 +195,19 @@
       slides: assets/slides/Prompting_Lecture_Liwei.pdf
       due: in-class quiz 6; HW2 due
     - date: 11/19
-      topics: LLM Decoding++
+      topics: Frontiers of LLM Reasoning and Evaluation
+      slides: assets/slides/17-Grand_Challenges_in_LLM_Reasoning.pdf
+    - date: 11/21
+      topics: Computational Social Science
+
+- week: 10
+  size: 3
+  days:
+    - date: 11/24
+      topics: LLM Safety
+      due: in-class quiz 7 (last quiz!)
+    - date: 11/26
+      topics: NLP in Industry
+    - date: 11/28
+      topics: CANCELED (Thanksgiving)
 
