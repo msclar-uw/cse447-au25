@@ -199,6 +199,7 @@
       slides: assets/slides/17-Grand_Challenges_in_LLM_Reasoning.pdf
     - date: 11/21
       topics: Computational Social Science
+      slides: assets/slides/18-ComputationalSocialScience-UndergradNLP-2025au.pdf
 
 - week: 10
   size: 3
