@@ -206,9 +206,24 @@
   days:
     - date: 11/24
       topics: LLM Safety
+      slides: assets/slides/19-AISafety-UndergradNLP-2025au.pdf
+      readings:
+        - title: Risks of LLMs
+          link: https://arxiv.org/pdf/2112.04359
+        - title: SafetyPrompts
+          link: https://arxiv.org/pdf/2404.05399
+        - title: The Art of Saying No
+          link: https://www.arxiv.org/pdf/2407.12043
       due: in-class quiz 7 (last quiz!)
     - date: 11/26
-      topics: NLP in Industry
+      topics: CANCELED (Thanksgiving)
     - date: 11/28
       topics: CANCELED (Thanksgiving)
 
+- week: 11
+  size: 2
+  days:
+    - date: 12/01
+      topics: NLP in Industry
+    - date: 12/03
+      topics: AI Ethics
