@@ -221,9 +221,12 @@
       topics: CANCELED (Thanksgiving)
 
 - week: 11
-  size: 2
+  size: 3
   days:
     - date: 12/01
       topics: NLP in Industry
     - date: 12/03
       topics: AI Ethics
+    - date: 12/05
+      topics: 
+      due: HW3 due
