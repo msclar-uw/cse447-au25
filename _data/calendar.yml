@@ -225,8 +225,15 @@
   days:
     - date: 12/01
       topics: NLP in Industry
+      slides: assets/slides/RecommendationSystems-UndergradNLP-2025au.pdf
     - date: 12/03
       topics: AI Ethics
+      slides: assets/slides/AIEthicsResearchExample-UndergradNLP-2025au.pdf
+      readings:
+        - title: Political Bias in LLMs
+          link: https://aclanthology.org/2023.acl-long.656.pdf
+        - title: Biased LLMs can Influence Decision Making
+          link: https://aclanthology.org/2025.acl-long.328.pdf
     - date: 12/05
       topics: 
       due: HW3 due
